@@ -1,0 +1,12 @@
+﻿  Cloud_Backup.cpp
+f:\microsoft visual studio 2017——代码文件\project_cloud_backup\project_cloud_backup\httplib.h(2871): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\microsoft visual studio 2017——代码文件\project_cloud_backup\project_cloud_backup\httplib.h(2876): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+f:\microsoft visual studio 2017——代码文件\project_cloud_backup\project_cloud_backup\md5.hpp(165): warning C4244: “初始化”: 从“__int64”转换到“uint_32”，可能丢失数据
+f:\microsoft visual studio 2017——代码文件\project_cloud_backup\project_cloud_backup\md5.hpp(205): warning C4244: “=”: 从“std::streamsize”转换到“uint_32”，可能丢失数据
+f:\microsoft visual studio 2017——代码文件\project_cloud_backup\project_cloud_backup\filetool.hpp(22): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int64_t”
+  f:\microsoft visual studio 2017——代码文件\project_cloud_backup\project_cloud_backup\filetool.hpp(22): note: 请考虑在格式字符串中使用“%lld”
+  f:\microsoft visual studio 2017——代码文件\project_cloud_backup\project_cloud_backup\filetool.hpp(22): note: 请考虑在格式字符串中使用“%Id”
+  f:\microsoft visual studio 2017——代码文件\project_cloud_backup\project_cloud_backup\filetool.hpp(22): note: 请考虑在格式字符串中使用“%I64d”
+f:\microsoft visual studio 2017——代码文件\project_cloud_backup\project_cloud_backup\cloud_backup_cilent.hpp(50): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  f:\microsoft visual studio 2017——代码文件\project_cloud_backup\project_cloud_backup\cloud_backup_cilent.hpp(50): note: 请考虑在格式字符串中使用“%zd”
+  Project_Cloud_Backup.vcxproj -> F:\Microsoft Visual Studio 2017——代码文件\Project_Cloud_Backup\x64\Debug\Project_Cloud_Backup.exe

@@ -1,0 +1,4 @@
+﻿  Cloud_Backup.cpp
+f:\microsoft visual studio 2017——代码文件\project_cloud_backup\project_cloud_backup\md5.hpp(165): warning C4244: “初始化”: 从“__int64”转换到“uint_32”，可能丢失数据
+f:\microsoft visual studio 2017——代码文件\project_cloud_backup\project_cloud_backup\md5.hpp(205): warning C4244: “=”: 从“std::streamsize”转换到“uint_32”，可能丢失数据
+  Project_Cloud_Backup.vcxproj -> F:\Microsoft Visual Studio 2017——代码文件\Project_Cloud_Backup\Debug\Project_Cloud_Backup.exe
